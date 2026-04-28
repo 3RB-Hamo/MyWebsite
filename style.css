@@ -41,7 +41,7 @@ body {
 
 /* Hero Section (Das Obere Drittel) */
 .hero {
-    background: linear-gradient(rgba(44, 62, 80, 0.8), rgba(44, 62, 80, 0.8)), url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1350&q=80');
+    background: linear-gradient(rgba(44, 62, 80, 0.8), rgba(44, 62, 80, 0.8)), url('IMG_3709');
     background-size: cover;
     background-position: center;
     height: 60vh;
